@@ -10,6 +10,12 @@ This is a simple chat application built with React, TypeScript, and Socket.IO. I
 - Authentication with JSON Web Tokens (JWT)
 - Responsive design
 
+## Demo Proview
+
+https://github.com/eksant/webchat-socket/assets/32409305/d9773f50-b3be-413b-a88f-3d7099ed49cb
+
+
+
 ## Technologies Used
 
 - **Frontend:**
